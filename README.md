@@ -197,8 +197,8 @@ The backend provides several API endpoints for managing invoices and customers. 
   - `POST /api/payments`: Record a new payment.
  ..............................change its content
 
-
-**Contact:**
+------------------------------------------------
+## Contact:
   - For any queries, feedback, or collaboration opportunities, feel free to connect:
 
  - Author: Shweta
