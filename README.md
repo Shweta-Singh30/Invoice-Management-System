@@ -12,7 +12,7 @@ The MERN Invoice Management System is a comprehensive application designed to ma
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
 - [Contact](#contact)
-- [License](#license)
+
 
 ## Features
 
